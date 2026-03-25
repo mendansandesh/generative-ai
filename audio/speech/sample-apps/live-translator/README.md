@@ -6,7 +6,7 @@ This application demonstrates a Cloud Run application that uses the [Streamlit](
 
 ## Run the Application locally (on Cloud Shell)
 
-> NOTE: **Before you move forward, ensure that you have followed the instructions in [SETUP.md](../SETUP.md).**
+> NOTE: **Before you move forward, ensure that you have followed the instructions in [SETUP.md](./SETUP.md).**
 > Additionally, ensure that you have cloned this repository and you are currently in the `live-translation-demo` folder. This should be your active working directory for the rest of the commands.
 
 To run the Streamlit Application locally (on Cloud Shell), we need to perform the following steps:
@@ -54,7 +54,7 @@ The application will startup and you will be provided a URL to the application. 
 
 ## Build and Deploy the Application to Cloud Run
 
-> NOTE: **Before you move forward, ensure that you have followed the instructions in [SETUP.md](../SETUP.md).**
+> NOTE: **Before you move forward, ensure that you have followed the instructions in [SETUP.md](./SETUP.md).**
 > Additionally, ensure that you have cloned this repository and you are currently in the `live-translation-demo` folder. This should be your active working directory for the rest of the commands.
 
 To deploy the Streamlit Application in [Cloud Run](https://cloud.google.com/run/docs/quickstarts/deploy-container), we need to perform the following steps:
