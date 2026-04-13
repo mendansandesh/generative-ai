@@ -13,12 +13,14 @@ ADAS
 adk
 ADK
 ADMA
+admins
 adr
 aexecute
 aextract
 afrom
 Afshaan
 AFX
+agains
 agentic
 agg
 AGG
@@ -36,6 +38,7 @@ akka
 Aktu
 ALCS
 ALDS
+Alessia
 Alibaba
 alisal
 alloydb
@@ -47,6 +50,7 @@ Anant
 antiword
 ANZ
 AOT
+apac
 APAC
 Aphone
 APIENTRY
@@ -176,6 +180,7 @@ cais
 CALIPSO
 campestre
 CAMQAA
+Canlaws
 Caprese
 carbonara
 Carcante
@@ -195,6 +200,8 @@ cctv
 cdiv
 CDNs
 ceb
+Ceccotti
+Centros
 ceo
 cer
 cfbundle
@@ -236,6 +243,7 @@ Codicote
 COINIT
 colab
 coldline
+Coleoidea
 Colm
 coloraxis
 colorbar
@@ -262,6 +270,7 @@ cpb
 cpet
 crewai
 CRF
+crm
 CRM
 Crossbody
 crosstab
@@ -311,6 +320,7 @@ Depatmint
 descgen
 deskmates
 Dexin
+dflags
 dfs
 DHH
 diltiazem
@@ -351,6 +361,8 @@ dshm
 dsl
 dsn
 DSQ
+dto
+DTOs
 dtype
 dtypes
 Duh
@@ -368,6 +380,9 @@ Dzor
 ecommerce
 EDB
 edgecolor
+edu
+Edu
+EDU
 Edunov
 eee
 EHR
@@ -400,6 +415,7 @@ ENU
 Envane
 envrc
 envsubst
+Enzo
 epath
 epoc
 Eragon
@@ -426,6 +442,7 @@ evt
 expl
 faa
 facecolor
+Fairall
 faiss
 FAISS
 Fangming
@@ -483,6 +500,9 @@ Frodo
 fromarray
 frombytes
 fromiter
+frontline
+Frontline
+FRONTLINE
 fsspec
 FTPS
 fts
@@ -558,6 +578,7 @@ Godzilla
 goldmine
 Gombe
 GOODALL
+googleapi
 googlecar
 googler
 goooooood
@@ -566,6 +587,7 @@ gpg
 gpp
 gpt
 gpu
+Grachev
 gradio
 gradlew
 graphrag
@@ -714,6 +736,7 @@ JAVACMD
 Jax
 JDK
 Jedi
+Jeeg
 jegadesh
 jesieni
 Jestem
@@ -751,6 +774,7 @@ Kawagoe
 Keanu
 kendall
 kenleejr
+kephal
 keras
 Ketamine
 keychain
@@ -806,6 +830,7 @@ Leventer
 lexer
 lexers
 liberties
+lic
 linalg
 linecolor
 linestyle
@@ -873,6 +898,7 @@ mapbox
 marp
 Masaru
 maskmode
+mathbf
 mathvista
 mavenrc
 maxcold
@@ -889,6 +915,7 @@ mec
 MEDIANCUT
 mediapy
 Mega
+Megarobot
 Meinl
 Meirelles
 Meltem
@@ -1014,6 +1041,7 @@ nokey
 Nominatim
 NOMINATIM
 NOMINMAX
+nonroot
 norigin
 notetaker
 novnc
@@ -1072,6 +1100,7 @@ overwiew
 owlbot
 oxml
 padus
+Pageable
 pagemap
 Pakeman
 paleo
@@ -1136,6 +1165,7 @@ plt
 pmb
 podcast
 podcasts
+podes
 podfile
 podhelper
 podman
@@ -1153,6 +1183,7 @@ prag
 Pranav
 praw
 prcntg
+PRD
 Pré
 preds
 pregel
@@ -1229,6 +1260,7 @@ recrawl
 reddit
 redef
 reidx
+remai
 rembg
 reoffice
 rephraser
@@ -1259,6 +1291,7 @@ Robotica
 rooney
 ROOTSPAN
 Rosberg
+ROUVs
 rpet
 rrf
 RRF
@@ -1294,6 +1327,7 @@ scikit
 Scorsese
 SDKROOT
 seabut
+sealife
 seatback
 SEK
 Selam
@@ -1315,10 +1349,13 @@ Sha'carri
 shalas
 Shankman
 Shaoxiong
+Shar
 sharegpt
 Sharmila
 Shawshank
 Shazeer
+SHEBA
+shedd
 Shenzhou
 Shibuya
 Shklovsky
@@ -1401,6 +1438,7 @@ sunner
 supima
 suptitle
 Surampudi
+survei
 Suzaka
 svh
 svm
@@ -1450,6 +1488,7 @@ Thallam
 thelook
 THH
 THHH
+thi
 throug
 THT
 THTH
@@ -1485,6 +1524,7 @@ Traceloop
 treeah
 Tribbiani
 Tricyle
+trimpath
 tritan
 TRK
 trl
@@ -1542,6 +1582,7 @@ USK
 Uszkoreit
 Utik
 uuids
+UUV
 uvb
 uvicorn
 uvx
@@ -1632,6 +1673,7 @@ WFH
 wght
 whitegrid
 wiersz
+WIF
 wiffle
 wikipedia
 wil
